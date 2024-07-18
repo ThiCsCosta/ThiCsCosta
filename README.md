@@ -20,7 +20,7 @@ Sou acadêmico em Engenharia de Software, apaixonado por tecnologias | JavaScrip
 </div>
 
 ##
-### Onde você pode me encontrar.
+### Onde você pode me encontrar:
 
 <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
