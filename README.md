@@ -1,15 +1,15 @@
 
 # Olá eu sou @ThiCsCosta
-Sou acadêmico em Engenharia de Software, apaixonado por tecnologias | Java - JavaScript - Typescript - NodeJS - AWS - Docker - SQL | Desenvolvedor Web FullStack.
+Sou acadêmico em Engenharia de Software, apaixonado por tecnologias | JavaScript - Typescript - Java - NodeJS - AWS - Docker - SQL | Desenvolvedor Full Stack.
 
 ##
 ### Minhas Stacks
 
 <div style="display: inline_block; align: center"><br>
  <center>
-   <img align="center" alt="esbdev-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="esbdev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="esbdev-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img align="center" alt="esbdev-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="esbdev-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
    <img align="center" alt="esbdev-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
    <img align="center" alt="esbdev-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
