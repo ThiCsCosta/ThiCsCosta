@@ -1,6 +1,6 @@
 
 # Olá eu sou @ThiCsCosta
-Sou acadêmico em Engenharia de Software, apaixonado por tecnologias | Java - JavaScript - Typescript - NodeJS - AWS - Docker - SQL | Desenvolvedor Back-End.
+Sou acadêmico em Engenharia de Software, apaixonado por tecnologias | Java - JavaScript - Typescript - NodeJS - AWS - Docker - SQL | Desenvolvedor Web FullStack.
 
 ##
 ### Minhas Stacks
